@@ -12,8 +12,7 @@ A Flutter-based Weather Application that shows current weather conditions, hourl
 
 ## Screenshots
 
-![Home Screen](screenshots/home.png)
-![Weather Details](screenshots/details.png)
+![weatherapp](https://github.com/user-attachments/assets/3ad91f7d-d8db-4b30-992e-b21c4f7e2c4d)
 
 *(You can add screenshots in the `screenshots/` folder and link here.)*
 
